@@ -16,6 +16,6 @@ By the end of this video, you will have learned how to:
 
 Thanks for watching, if you would like to see more videos like this please do Like and Subscribe so I know to create more.
 
-Twitter: https://twitter.com/ania_kubow
-YouTube: https://youtube.com/aniakubow
-Instagram: https://instagram.com/aniakubow
+- Twitter: https://twitter.com/ania_kubow
+- YouTube: https://youtube.com/aniakubow
+- Instagram: https://instagram.com/aniakubow
