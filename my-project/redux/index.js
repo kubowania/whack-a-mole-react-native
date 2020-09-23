@@ -1,0 +1,1 @@
+export { addScore } from './actions'
