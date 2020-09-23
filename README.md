@@ -12,8 +12,7 @@ By the end of this video, you will have learned how to:
 - Expo: http://bit.ly/expo-link
 - Node: https://nodejs.org/en/
 - Homebrew: https://brew.sh/
-- XCode: https://apps.apple.com/gb/app/xcode/id497799835?mt=12
-
+- XCode: https://apps.apple.com/gb/app/xcode/
 Thanks for watching, if you would like to see more videos like this please do Like and Subscribe so I know to create more.
 
 - Twitter: https://twitter.com/ania_kubow
